@@ -1,0 +1,27 @@
+mesa
+xorg
+xorg-apps
+xorg-drivers
+xorg-xinit
+xterm
+binutils
+dosfstools
+linux-headers
+usbutils
+xdg-user-dirs
+net-tools
+traceroute
+unrar
+unzip
+which
+zip
+neofetch
+asciinema
+bash-completion
+terminus-font
+ttf-jetbrains-mono
+noto-fonts-emoji
+--END OF MINIMAL INSTALL--
+btrfs-progs
+snap-pac
+snapper
